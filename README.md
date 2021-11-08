@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qbit-joe
-- 👀 I’m interested in machine modelling & data mining AI, data analytics, swarm & vision intelligence, biology and flight
+- 👀 I’m interested in machine modelling & data mining, AI, data analytics, swarm & vision intelligence, biology and flight
 
 
 <!---
